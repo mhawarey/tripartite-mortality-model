@@ -10,6 +10,10 @@ This repository contains the computational validation code for the paper:
 
 Author: Mosab Hawarey https://hawarey.org/mosab/ (mosab@hawarey.org)
 
+## Original Paper
+
+https://airjournals.org/doi/10.65737.AIRJIR2026129.html
+
 ## Description
 
 The code implements a Fokker-Planck equation solver to simulate cellular health distribution dynamics over a human lifespan. The model predicts mortality as a threshold phenomenon occurring when approximately 28% of cells fall below a critical health threshold.
@@ -92,9 +96,7 @@ Death occurs when: ∫₀^θc ρ(x,t) dx ≥ f_crit
 If you use this code in your research, please cite:
 
 ```
-Hawarey, M. (2026). A Tripartite Model of Human Mortality: Cellular-Level 
-Mathematical Framework for Understanding Death and the Theoretical Possibility 
-of Radical Life Extension. [Journal details pending publication]
+Hawarey, M. (2026), A tripartite model of human mortality: cellular-level mathematical framework for understanding death and the theoretical possibility of radical life extension, AIR Journal of Interdisciplinary Research, Vol. 2026, AIRJIR2026129, DOI: 10.65737/AIRJIR2026129
 ```
 
 ## License
