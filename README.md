@@ -8,7 +8,7 @@ This repository contains the computational validation code for the paper:
 
 **"A Tripartite Model of Human Mortality: Cellular-Level Mathematical Framework for Understanding Death and the Theoretical Possibility of Radical Life Extension"**
 
-Author: Mosab Hawarey (mhawarey@alumni.purdue.edu)
+Author: Mosab Hawarey https://hawarey.org/mosab/ (mosab@hawarey.org)
 
 ## Description
 
@@ -103,7 +103,7 @@ MIT License - see LICENSE file for details
 
 ## Contact
 
-Mosab Hawarey - mhawarey@alumni.purdue.edu
+Mosab Hawarey - https://hawarey.org/mosab/ - mosab@hawarey.org
 
 ## Acknowledgments
 
