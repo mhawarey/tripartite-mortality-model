@@ -8,7 +8,7 @@ This repository contains the computational validation code for the paper:
 
 **"A Tripartite Model of Human Mortality: Cellular-Level Mathematical Framework for Understanding Death and the Theoretical Possibility of Radical Life Extension"**
 
-Author: Mosab Hawarey https://hawarey.org/mosab/ (mosab@hawarey.org)
+Author: Mosab Hawarey https://hawarey.org/mosab/
 
 ## Original Paper
 
@@ -96,16 +96,22 @@ Death occurs when: ∫₀^θc ρ(x,t) dx ≥ f_crit
 If you use this code in your research, please cite:
 
 ```
-Hawarey, M. (2026), A tripartite model of human mortality: cellular-level mathematical framework for understanding death and the theoretical possibility of radical life extension, AIR Journal of Interdisciplinary Research, Vol. 2026, AIRJIR2026129, DOI: 10.65737/AIRJIR2026129
+Hawarey, M. (2026), A tripartite model of human mortality: cellular-level mathematical framework for understanding death and the theoretical possibility of radical life extension, AIR Journal of Interdisciplinary Research, Vol. 2026, AIRJIR2026129.
+https://doi.org/10.65737/AIRJIR2026129
 ```
+
+## Author
+
+**Dr. Mosab Hawarey**
+PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
+
+- GitHub: https://github.com/mhawarey
+- Personal: https://hawarey.org/mosab
+- ORCID: https://orcid.org/0000-0001-7846-951X
 
 ## License
 
 MIT License - see LICENSE file for details
-
-## Contact
-
-Mosab Hawarey - https://hawarey.org/mosab/ - mosab@hawarey.org
 
 ## Acknowledgments
 
