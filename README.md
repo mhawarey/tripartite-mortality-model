@@ -12,7 +12,7 @@ Author: Mosab Hawarey https://hawarey.org/mosab/
 
 ## Original Paper
 
-https://airjournals.org/doi/10.65737.AIRJIR2026129.html
+https://doi.org/10.65737/AIRJIR2026129
 
 ## Description
 
