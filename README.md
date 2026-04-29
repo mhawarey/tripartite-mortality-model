@@ -7,17 +7,14 @@
 This repository contains the computational validation code for the paper:
 
 **"A Tripartite Model of Human Mortality: Cellular-Level Mathematical Framework for Understanding Death and the Theoretical Possibility of Radical Life Extension"**
+  
+AIR Journal of Interdisciplinary Research, Vol. 2026
 
-    **"A Tripartite Model of Human Mortality: Cellular-Level Mathematical Framework for Understanding Death and the Theoretical Possibility of Radical Life Extension"**
-    
-    AIR Journal of Interdisciplinary Research, Vol. 2026
+Journal DOI: 10.65737/AIRJIR
 
-    Journal DOI: 10.65737/AIRJIR
+Publisher: Artificial Intelligence Review AIR Publishing House LLC
 
-    Publisher: Artificial Intelligence Review AIR Publishing House LLC
-
-    Article ID: AIRJIR2026129  |  DOI: 10.65737/AIRJIR2026129
-
+Article ID: AIRJIR2026129  |  DOI: 10.65737/AIRJIR2026129
 
 Author: Mosab Hawarey https://hawarey.org/mosab/
 
