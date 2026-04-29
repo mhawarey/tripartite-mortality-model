@@ -21,6 +21,7 @@ Author: Mosab Hawarey https://hawarey.org/mosab/
 
 ## Original Paper
 
+https://doi.org/10.65737/AIRJIR2026129
 https://airjournals.org/doi/10.65737.AIRJIR2026129.html
 
 ## Description
@@ -105,7 +106,7 @@ Death occurs when: ∫₀^θc ρ(x,t) dx ≥ f_crit
 If you use this code in your research, please cite:
 
 ```
-Hawarey, M. (2026). A tripartite model of human mortality: cellular-level mathematical framework for understanding death and the theoretical possibility of radical life extension. *AIR Journal of Interdisciplinary Research, Vol. 2026, AIRJIR2026129.
+Hawarey, M. (2026). A tripartite model of human mortality: cellular-level mathematical framework for understanding death and the theoretical possibility of radical life extension. AIR Journal of Interdisciplinary Research, Vol. 2026, AIRJIR2026129.
 https://doi.org/10.65737/AIRJIR2026129
 ```
 
