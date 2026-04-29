@@ -8,7 +8,7 @@ This repository contains the computational validation code for the paper:
 
 **"A Tripartite Model of Human Mortality: Cellular-Level Mathematical Framework for Understanding Death and the Theoretical Possibility of Radical Life Extension"**
   
-AIR Journal of Interdisciplinary Research, Vol. 2026
+*AIR Journal of Interdisciplinary Research*, Vol. 2026
 
 Journal DOI: 10.65737/AIRJIR
 
@@ -105,10 +105,8 @@ Death occurs when: ∫₀^θc ρ(x,t) dx ≥ f_crit
 
 If you use this code in your research, please cite:
 
-```
 Hawarey, M. (2026). A tripartite model of human mortality: cellular-level mathematical framework for understanding death and the theoretical possibility of radical life extension. *AIR Journal of Interdisciplinary Research*, Vol. 2026, AIRJIR2026129.
-https://doi.org/10.65737/AIRJIR2026129
-```
+https://doi.org/10.65737/AIRJIR2026129 
 
 ## Author
 
