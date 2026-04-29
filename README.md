@@ -8,7 +8,7 @@ This repository contains the computational validation code for the paper:
 
 **"A Tripartite Model of Human Mortality: Cellular-Level Mathematical Framework for Understanding Death and the Theoretical Possibility of Radical Life Extension"**
 
-    *AIR Journal of Interdisciplinary Research*, Vol. 2026
+    *_AIR Journal of Interdisciplinary Research_*, Vol. 2026
 
     Journal DOI: 10.65737/AIRJIR
 
